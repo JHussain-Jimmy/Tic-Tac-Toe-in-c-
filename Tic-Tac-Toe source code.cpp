@@ -3,6 +3,7 @@
 
 char psbd[9]={'1','2','3','4','5','6','7','8','9'};///global variables which can be used and modified anywhere
 int check[9]={0,0,0,0,0,0,0,0,0},f=0,p1=0,p2=0;
+using namespace std;
 void board(char psbd[9])                          /// this function will print current situation of board
 {
     cout<<psbd[0]<<" | "<<psbd[1]<<" | "<<psbd[2]<<" | "<<endl;
