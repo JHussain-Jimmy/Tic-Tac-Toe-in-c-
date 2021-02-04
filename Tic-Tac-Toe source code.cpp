@@ -1,5 +1,4 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
 
 char psbd[9]={'1','2','3','4','5','6','7','8','9'};///global variables which can be used and modified anywhere
 int check[9]={0,0,0,0,0,0,0,0,0},f=0,p1=0,p2=0;
