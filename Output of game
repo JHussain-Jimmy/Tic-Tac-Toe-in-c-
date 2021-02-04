@@ -1,0 +1,56 @@
+WELCOME TO TIC-TAC-TOE
+
+1 | 2 | 3 | 
+------------
+4 | 5 | 6 | 
+------------
+7 | 8 | 9 | 
+------------
+player 1 will have symbol: X
+player 2 will have symbol: /
+player one's turn
+1
+X | 2 | 3 | 
+------------
+4 | 5 | 6 | 
+------------
+7 | 8 | 9 | 
+------------
+player two's turn
+5
+X | 2 | 3 | 
+------------
+4 | / | 6 | 
+------------
+7 | 8 | 9 | 
+------------
+player one's turn
+2
+X | X | 3 | 
+------------
+4 | / | 6 | 
+------------
+7 | 8 | 9 | 
+------------
+player two's turn
+4
+X | X | 3 | 
+------------
+/ | / | 6 | 
+------------
+7 | 8 | 9 | 
+------------
+player one's turn
+3
+X | X | X | 
+------------
+/ | / | 6 | 
+------------
+7 | 8 | 9 | 
+------------
+
+player one wins
+
+do you wanna play again
+press y for playing again
+press n for no and see who has won most
